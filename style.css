@@ -1,8 +1,8 @@
 body {
   font-family: "Courier", sans-serif;
-  background-color: #f0f0f0;
-  color: #333;
-  text-align: center;
+  background-color: powderblue;
+  color: black;
+  text-align: left;
   padding: 20px;
 }
 
@@ -11,7 +11,7 @@ body {
 }
 
 a {
-  color: blue;
+  color: black;
   text-decoration: none;
 }
 
