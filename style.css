@@ -1,7 +1,7 @@
 body {
-  font-family: "Courier", sans-serif;
-  background-color: powderblue;
-  color: black;
+  font-family: "IBM Plex Mono", monospace;
+  background-color: #212737;
+  color: white;
   text-align: left;
   padding: 20px;
 }
@@ -11,7 +11,7 @@ body {
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
